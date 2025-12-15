@@ -1,0 +1,16 @@
+{
+    "name": "4tune-marketplace",
+    "owner": {
+      "name": "4tune Team"
+    },
+    "plugins": [
+      {
+        "name": "claude-code-enhanced-prompt",
+        "description": "通过 Linear 集成、命令快捷方式和多方案处理支持来增强你的提示词",
+        "source": {
+          "source": "url",
+          "url": "https://github.com/lukailun/claude-code-enhanced-prompt.git"
+        }
+      }
+    ]
+}
